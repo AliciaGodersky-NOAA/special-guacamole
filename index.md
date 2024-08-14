@@ -12,11 +12,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [x] item 1
+- [x] item 2
 
-
-
-
-
+### Bullet List
+- list item 1
+- list item 2
 
 
 
